@@ -1,6 +1,6 @@
 {
   "name": "urld",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "encode and decode url strings",
   "main": "urld.js",
   "scripts": {
