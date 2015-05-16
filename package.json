@@ -16,6 +16,7 @@
   "author": "Sebastian",
   "license": "ISC",
   "dependencies": {
+    "urlencode2": "^1.0.1",
     "yargs": "^3.9.0"
   }
 }
