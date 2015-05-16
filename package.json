@@ -19,6 +19,9 @@
     "type": "git",
     "url": "https://github.com/sebastian4/urld"
   },
+  "bugs" : {
+    "url" : "https://github.com/sebastian4/urld/issues"
+  },
   "dependencies": {
     "urlencode2": "^1.0.1",
     "yargs": "^3.9.0"
